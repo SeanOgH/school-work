@@ -1,0 +1,3 @@
+centigrade = float(input("Enter the centigrade value: "))
+Farenheit = 9/5 * centigrade + 32
+print(centigrade, "degrees c equals", Farenheit, "degrees F")
